@@ -2,6 +2,9 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lll9p&show_icons=true)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me:
