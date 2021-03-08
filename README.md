@@ -1,6 +1,9 @@
 ### Hi there, I'am lll9p. 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lll9p&show_icons=true)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 📫 How to reach me:
     - :page_with_curl: [Website](https://laolilin.com)
     - :page_with_curl: [Blog](https://blog.laolilin.com)
