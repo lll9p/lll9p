@@ -8,7 +8,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   16 mins         ███████████████▓░░░░░░░░░   62.56 % 
+YAML       8 mins          ███████▒░░░░░░░░░░░░░░░░░   29.99 % 
+Python     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 ```
 <!--END_SECTION:waka-->
 
