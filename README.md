@@ -1,17 +1,4 @@
 ### Hi there, I'am lll9p. 👋
-**Statistics**
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lll9p&show_icons=true)
-
-
-📊 Weekly development breakdown:
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 
 - 📫 How to reach me:
     - :page_with_curl: [Website](https://laolilin.com)
@@ -20,5 +7,11 @@ No Activity tracked this Week
     - :tv: [Bilibili@lll9p](https://space.bilibili.com/210780)
     - :bird:[Twitter@lll9p](https://twitter.com/lll9p/)
 
+<a href="https://github.com/lll9p">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lll9p&show_icons=true" />
+</a>
+<a href="https://wakatime.com/@lll9p">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lll9p&layout=compact" />
+</a>
 
 ![公众号](./images/Wechat.png)
